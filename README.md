@@ -8,9 +8,7 @@
 
 2) Read the [sqlbrite's ReadMe](https://github.com/square/sqlbrite)
 
-3) Example:
-
-
+3) See [example](https://github.com/Guang1234567/sqflitebrite/blob/cb5819934eab1a1354e8be8c5817ad2badf2c41c/example/lib/todo_test_page.dart#L140-L297).
 
    
 ## different point
